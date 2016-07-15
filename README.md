@@ -1,3 +1,5 @@
+A fork of promise-cb that fixes broken installation on Windows.  See [the relevant issue](https://github.com/urbanmassage/promise-cb/issues/1).
+
 # Promise-CB
 
 Promise-callback helper functions.
