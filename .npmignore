@@ -2,6 +2,9 @@ node_modules/
 coverage/
 typings/
 *.log
+.idea
+.vscode
+.vagrant
 
 .gitignore
 test/

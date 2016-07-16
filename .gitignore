@@ -1,6 +1,9 @@
 node_modules/
 coverage/
 typings/
+.idea
+.vscode
+.vagrant
 *.js
 *.log
 *.map
